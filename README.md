@@ -8,6 +8,7 @@ logo:
 
 ## Exported files:
 
+ - [favicon](favicon) icon files
  - [vector](vector) svg files
  - [png](png) png files
  
